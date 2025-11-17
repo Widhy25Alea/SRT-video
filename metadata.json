@@ -1,0 +1,5 @@
+{
+  "name": "Lalea Editing Video",
+  "description": "A professional video editing application powered by Gemini. It features a timeline-based editor and AI-powered automatic subtitle generation from your video description.",
+  "requestFramePermissions": []
+}
